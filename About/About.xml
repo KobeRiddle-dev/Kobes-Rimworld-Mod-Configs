@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Kobe's Mod Configs</name>
+	<author>Kobe Riddle</author>
+	<supportedVersions>
+		<li>1.6</li>
+	</supportedVersions>
+	<packageId>KobeRiddle.ModlistConfig.ProgressionFork</packageId>
+	<description>
+		A mod config preset for my slimmed down fork of the Progression ModPack.
+	</description>
+	
+	<modDependencies>
+		<li>
+			<packageId>Garethp.ModlistConfigurator</packageId>
+			<displayName>Modlist Configurator</displayName>
+			<downloadUrl>https://steamcommunity.com/linkfilter/?url=https://github.com/Garethp/rimworld-modlist-configurator</downloadUrl>
+            <steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3009304695</steamWorkshopUrl>
+		</li>
+	</modDependencies>
+</ModMetaData>
