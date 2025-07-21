@@ -2,6 +2,7 @@
 <SettingsBlock>
 	<ModSettings Class="QuickFast.Source.Settings">
 		<hairMeshScale>1.01600003</hairMeshScale>
+		<apparelHidingMode>IndoorsOrNotDrafted</apparelHidingMode>
 		<hairFilter />
 		<hatFilter />
 		<LayerVis>
