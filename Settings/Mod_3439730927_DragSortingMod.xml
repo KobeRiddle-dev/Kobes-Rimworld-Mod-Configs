@@ -1,0 +1,212 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="DragSorting.DragSortingModSettings">
+		<reorderedDesignators>
+			<keys>
+				<li>Orders</li>
+				<li>Structure</li>
+				<li>Ferny_Kitchen</li>
+				<li>Production</li>
+				<li>Misc</li>
+				<li>Hygiene</li>
+				<li>Power</li>
+				<li>Ideology</li>
+				<li>Biotech</li>
+				<li>skylights</li>
+				<li>Anomaly</li>
+				<li>Ferny_Bedroom</li>
+				<li>Ferny_Farming</li>
+				<li>Ferny_Animals</li>
+				<li>Security</li>
+				<li>VCHE_PipeNetworks</li>
+				<li>Temperature</li>
+				<li>Ferny_Outreach</li>
+				<li>Ferny_Environment</li>
+				<li>Ship</li>
+				<li>VFEI2_Insectoids</li>
+			</keys>
+			<values>
+				<li>
+					<gizmoOffsets />
+				</li>
+				<li>
+					<gizmoOffsets />
+				</li>
+				<li>
+					<gizmoOffsets />
+				</li>
+				<li>
+					<gizmoOffsets />
+				</li>
+				<li>
+					<gizmoOffsets />
+				</li>
+				<li>
+					<gizmoOffsets />
+				</li>
+				<li>
+					<gizmoOffsets />
+				</li>
+				<li>
+					<gizmoOffsets />
+				</li>
+				<li>
+					<gizmoOffsets />
+				</li>
+				<li>
+					<gizmoOffsets />
+				</li>
+				<li>
+					<gizmoOffsets />
+				</li>
+				<li>
+					<gizmoOffsets />
+				</li>
+				<li>
+					<gizmoOffsets />
+				</li>
+				<li>
+					<gizmoOffsets />
+				</li>
+				<li>
+					<gizmoOffsets />
+				</li>
+				<li>
+					<gizmoOffsets />
+				</li>
+				<li>
+					<gizmoOffsets />
+				</li>
+				<li>
+					<gizmoOffsets />
+				</li>
+				<li>
+					<gizmoOffsets />
+				</li>
+				<li>
+					<gizmoOffsets />
+				</li>
+				<li>
+					<gizmoOffsets />
+				</li>
+			</values>
+		</reorderedDesignators>
+		<movedDesignators>
+			<keys />
+			<values />
+		</movedDesignators>
+		<reorderedCategories>
+			<li>
+				<defName>Orders</defName>
+			</li>
+			<li>
+				<defName>Zone</defName>
+				<offset>1</offset>
+			</li>
+			<li>
+				<defName>Structure</defName>
+				<offset>2</offset>
+			</li>
+			<li>
+				<defName>Floors</defName>
+				<offset>3</offset>
+			</li>
+			<li>
+				<defName>ASFstorage</defName>
+				<offset>4</offset>
+			</li>
+			<li>
+				<defName>Ferny_Lighting</defName>
+				<offset>5</offset>
+			</li>
+			<li>
+				<defName>Ferny_Kitchen</defName>
+				<offset>6</offset>
+			</li>
+			<li>
+				<defName>Production</defName>
+				<offset>7</offset>
+			</li>
+			<li>
+				<defName>Furniture</defName>
+				<offset>8</offset>
+			</li>
+			<li>
+				<defName>Ferny_Bedroom</defName>
+				<offset>9</offset>
+			</li>
+			<li>
+				<defName>Ferny_Farming</defName>
+				<offset>10</offset>
+			</li>
+			<li>
+				<defName>Ferny_Animals</defName>
+				<offset>11</offset>
+			</li>
+			<li>
+				<defName>Power</defName>
+				<offset>12</offset>
+			</li>
+			<li>
+				<defName>VCHE_PipeNetworks</defName>
+				<offset>13</offset>
+			</li>
+			<li>
+				<defName>Hygiene</defName>
+				<offset>14</offset>
+			</li>
+			<li>
+				<defName>Temperature</defName>
+				<offset>15</offset>
+			</li>
+			<li>
+				<defName>Joy</defName>
+				<offset>16</offset>
+			</li>
+			<li>
+				<defName>Ferny_Hosting</defName>
+				<offset>17</offset>
+			</li>
+			<li>
+				<defName>Security</defName>
+				<offset>18</offset>
+			</li>
+			<li>
+				<defName>Ferny_Environment</defName>
+				<offset>19</offset>
+			</li>
+			<li>
+				<defName>Ferny_Outreach</defName>
+				<offset>20</offset>
+			</li>
+			<li>
+				<defName>Misc</defName>
+				<offset>21</offset>
+			</li>
+			<li>
+				<defName>Ship</defName>
+				<offset>22</offset>
+			</li>
+			<li>
+				<defName>Ideology</defName>
+				<offset>23</offset>
+			</li>
+			<li>
+				<defName>Anomaly</defName>
+				<offset>24</offset>
+			</li>
+			<li>
+				<defName>Biotech</defName>
+				<offset>25</offset>
+			</li>
+			<li>
+				<defName>VFEI2_Insectoids</defName>
+				<offset>26</offset>
+			</li>
+			<li>
+				<defName>skylights</defName>
+				<offset>27</offset>
+			</li>
+		</reorderedCategories>
+	</ModSettings>
+</SettingsBlock>

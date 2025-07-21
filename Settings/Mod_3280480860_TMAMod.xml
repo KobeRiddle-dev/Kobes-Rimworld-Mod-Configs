@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="TooManyAreas.TMASettings">
+		<transitionValue>5</transitionValue>
+	</ModSettings>
+</SettingsBlock>
