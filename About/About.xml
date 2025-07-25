@@ -5,6 +5,7 @@
 	<supportedVersions>
 		<li>1.6</li>
 	</supportedVersions>
+	<version>1.1</version>
 	<packageId>KobeRiddle.ModlistConfig.ProgressionFork</packageId>
 	<description>
 		A mod config preset for my slimmed down fork of the Progression ModPack.
