@@ -9,6 +9,7 @@
 		<restrictToFactionTechLevel>True</restrictToFactionTechLevel>
 		<allowOneHigherTechProject>True</allowOneHigherTechProject>
 		<allowSwitchingResearch>True</allowSwitchingResearch>
+		<equalizeCost>True</equalizeCost>
 		<experimentalAnomalySupport>True</experimentalAnomalySupport>
 	</ModSettings>
 </SettingsBlock>
