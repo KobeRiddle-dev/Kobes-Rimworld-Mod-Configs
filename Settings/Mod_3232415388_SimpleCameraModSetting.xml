@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <SettingsBlock>
 	<ModSettings Class="SimpleCameraSetting.ModSetting">
+		<sizeRange>5~90</sizeRange>
 		<followCameraKey>
 			<label>Follow Camera Key</label>
-			<key>F</key>
+			<key>V</key>
 		</followCameraKey>
-		<zoomToMouse>True</zoomToMouse>
 	</ModSettings>
 </SettingsBlock>
