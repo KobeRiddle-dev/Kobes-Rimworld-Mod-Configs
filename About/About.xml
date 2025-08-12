@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-	<name>Kobe's Mod Configs</name>
+	<name>Path of The Muffalo | Mod Configs</name>
 	<author>Kobe Riddle</author>
 	<supportedVersions>
 		<li>1.6</li>
 	</supportedVersions>
-	<modVersion>1.1</modVersion>
-	<packageId>KobeRiddle.ModlistConfig.ProgressionFork</packageId>
+	<modVersion>1.2</modVersion>
+	<packageId>KobeRiddle.ModlistConfig.PathOfTheMuffalo</packageId>
 	<description>
-		A mod config preset for my slimmed down fork of the Progression ModPack.
+		A mod config preset for the Path of The Muffalo mod collection.
 	</description>
 	
 	<modDependencies>
