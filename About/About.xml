@@ -7,8 +7,7 @@
 	</supportedVersions>
 	<modVersion>1.2</modVersion>
 	<packageId>KobeRiddle.ModlistConfig.PathOfTheMuffalo</packageId>
-	<description>
-		A mod config preset for the Path of The Muffalo mod collection.
+	<description>Mod config presets for the Path of The Muffalo mod collection.
 	</description>
 	
 	<modDependencies>
